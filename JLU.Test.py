@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import requests
 
-user = '' # put your user name here , shanyx20 for example.
+user = '' # put your user name here , zhangsan20 for example.
 passwd = '' # your password.
 
 headers = {
